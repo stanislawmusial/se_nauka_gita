@@ -3,3 +3,5 @@ druga_linijka
 
 POPRAWKA BRANCH
 WSB
+
+test

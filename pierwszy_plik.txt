@@ -1,5 +1,0 @@
-pierwsza_linijka
-druga_linijka
-
-POPRAWKA BRANCH
-WSB
